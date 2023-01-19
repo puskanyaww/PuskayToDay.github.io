@@ -11153,7 +11153,7 @@ var Ere = nL((Tre, Sw) => {
             isPublic: !0,
             directory: "internal/ecast-test-client"
         }, {
-            name: "Quiplash 2 InterLASHional",
+            name: "Сдохлыст 2 ИнтЭрЛЫСТЭональный",
             tag: "quiplash2-international",
             wrapper: "marionette",
             isPublic: !0,
@@ -11241,7 +11241,7 @@ var Ere = nL((Tre, Sw) => {
             isPublic: !0,
             directory: "pp2/bombintern"
         }, {
-            name: "Quiplash",
+            name: "Здохлыст",
             tag: "quiplash",
             wrapper: "marionette",
             isPublic: !0,
@@ -11375,7 +11375,7 @@ var Ere = nL((Tre, Sw) => {
             directory: "pp6/jokeboat",
             categoryId: "JokeboatGame"
         }, {
-            name: "Dictionarium",
+            name: "КУПИ ШРИФТ СУЧАРА",
             tag: "ridictionary",
             wrapper: "marionette",
             isPublic: !0,
@@ -11397,7 +11397,7 @@ var Ere = nL((Tre, Sw) => {
             features: ["camera", "moderation"],
             categoryId: "JackboxTalksGame"
         }, {
-            name: "Quiplash 3",
+            name: "Сдохлыст 3",
             tag: "quiplash3",
             wrapper: "marionette",
             isPublic: !0,
