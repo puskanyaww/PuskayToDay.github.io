@@ -10540,14 +10540,14 @@ Url: ${nr(t)}`), !0)
         rw = "custom",
         nw = 1,
         iw = {
-        branch: "основной",
+        branch: "main",
             sha: "c967e6196604f0dcb1b149c30b7de00a44b7d940",
             lastUpdated: 1669143779438,
             version: "5.67.C",
             type: "custom"
         },
         aw = {
-            основной: {
+            main: {
                 sha: "c967e6196604f0dcb1b149c30b7de00a44b7d940",
                 lastUpdated: 1669143779438,
                 version: "5.67.C",
