@@ -10608,20 +10608,6 @@ Url: ${nr(t)}`), !0)
                         version: "5.57.0"
                     }
                 }
-            },
-            основнойa: {
-                sha: "c967e6196604f0dcb1b149c30b7de00a44b7d940",
-                lastUpdated: 1669143779438,
-                version: "5.67.C",
-                type: "custom",
-                bundles: {
-                    triviadeath2: {
-                        file: "script.js",
-                        css: ["assets/style-0.css"],
-                        base: "main/pp6/triviadeath2",
-                        version: "5.6.0"
-                    }
-                }
             }
         },
         sw = {
