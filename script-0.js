@@ -10615,59 +10615,11 @@ Url: ${nr(t)}`), !0)
                 version: "5.67.C",
                 type: "custom",
                 bundles: {
-                    "@connect": {
-                        file: "script.js",
-                        css: ["assets/style-0.css"],
-                        base: "main/@connect",
-                        version: "5.61.0"
-                    },
-                    "@moderator": {
-                        file: "script.js",
-                        css: ["assets/style-0.css"],
-                        base: "main/@moderator",
-                        version: "5.55.0"
-                    },
-                    "ecast-test-client": {
-                        file: "script.js",
-                        css: ["assets/style-0.css"],
-                        base: "main/internal/ecast-test-client",
-                        version: "5.0.0"
-                    },
-                    ridictionary: {
-                        file: "script.js",
-                        css: ["assets/style-0.css"],
-                        base: "main/pp6/ridictionary",
-                        version: "5.3.0"
-                    },
                     triviadeath2: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
                         base: "main/pp6/triviadeath2",
-                        version: "5.3.0"
-                    },
-                    fourbage: {
-                        file: "script.js",
-                        css: ["assets/style-0.css"],
-                        base: "main/pp9/fourbage",
-                        version: "5.65.0"
-                    },
-                    lineup: {
-                        file: "script.js",
-                        css: ["assets/style-0.css"],
-                        base: "main/pp9/lineup",
-                        version: "5.65.0"
-                    },
-                    "range-game": {
-                        file: "script.js",
-                        css: ["assets/style-0.css"],
-                        base: "main/pp9/range-game",
-                        version: "5.65.0"
-                    },
-                    prototype: {
-                        file: "script.js",
-                        css: ["assets/style-0.css"],
-                        base: "main/internal/prototype",
-                        version: "5.57.0"
+                        version: "5.6.0"
                     }
                 }
             }
