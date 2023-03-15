@@ -12936,13 +12936,7 @@ Url: ${Wr(t)}`), !0)
             sha: "d494c3bd5d2b5eaeba8934fec33ea08da0e17334",
             lastUpdated: 1672941040347,
             version: "5.93.0",
-            type: "production",
-
-            branch: "maina",
-            sha: "d494c3bd5d2b5eaeba8934fec33ea08da0e17334",
-            lastUpdated: 1672941040347,
-            version: "5.93.0",
-            type: "productiona",
+            type: "production"
         },
         o0 = {
             main: {
