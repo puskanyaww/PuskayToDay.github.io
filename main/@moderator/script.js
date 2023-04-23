@@ -12926,7 +12926,7 @@ ${r.message}`,
             DRAWING_NOTHING: "You have to draw something!",
             PLAYER_KICKED: "You have been kicked from the game by a moderator.",
             ROOM_DESTROYED: "Thanks for playing!",
-            ROOM_DISCONNECTED: "Disconnected",
+            ROOM_DISCONNECTED: "ОТКЛЮЧЕНО",
             TEXT_NAUGHTY: "I\u2019m afraid you can\u2019t write that. Please be respectful of other players.",
             TEXT_NOTHING: "You can\u2019t enter nothing!",
             TITLE: "Error"
@@ -13655,7 +13655,7 @@ ${r.message}`,
         a4 = {
             UNSUPPORTED_BROWSER: "This game is not supported on this browser. View '?' or HELP to see a list of compatible browsers.",
             ROOM_IS_FULL: "The game is full",
-            ROOM_NOT_FOUND: "Room not found",
+            ROOM_NOT_FOUND: "Комната не найдена",
             AUDIENCE_IS_FULL: "The audience is full",
             UNABLE_TO_CONNECT: "Unable to connect to the Jackbox Games server. This is commonly caused by adblockers or privacy extensions.",
             UNABLE_TO_PRELOAD: "Unable to preload this game bundle",
@@ -13669,13 +13669,13 @@ ${r.message}`,
         o4 = {
             NAME: "NAME",
             NAME_PLACEHOLDER: "ENTER YOUR NAME",
-            PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
+            PASSWORD_PLACEHOLDER: "5 ЗНАЧНЫЙ ПАРОЛЬ",
             PASSWORD_REQUIRED_TITLE: "Password required",
             PASSWORD_REQUIRED_BODY: "Please enter the password or join as an audience member",
             PASSWORD_JOIN_AS_PLAYER: "Join as Player",
             PASSWORD_JOIN_AS_AUDIENCE: "Join Audience",
-            ROOM_CODE: "ROOM CODE",
-            ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
+            ROOM_CODE: "КОД КОМНАТЫ",
+            ROOM_CODE_PLACEHOLDER: "ВВЕДИТЕ 4 БУКВЕННЫЙ КОД"
         },
         c4 = "Link to Jackbox Games Homepage",
         l4 = {
@@ -24833,30 +24833,30 @@ ${t}`
         }
     });
     const Nte = {
-            GAME: "Game",
-            PASSWORD: "PASSWORD"
+            GAME: "Игра",
+            PASSWORD: "ПАРОЛЬ"
         },
         $te = {
-            KICK: "Kick?",
-            KICK_PLAYERS: "KICK PLAYERS",
-            MODERATE: "Moderate",
-            APPROVE_ALL: "Approve All",
-            REJECT_ALL: "Reject All"
+            KICK: "Выгнать?",
+            KICK_PLAYERS: "ВЫГНАТЬ ИГРОКА",
+            MODERATE: "Модерировать",
+            APPROVE_ALL: "Принять всё",
+            REJECT_ALL: "Отклонить всё"
         },
         Lte = {
-            ROOM_DESTROYED: "Thanks for helping out!"
+            ROOM_DESTROYED: "Спасибо за оказание помощи!"
         },
         Pte = {
-            DISABLED: "Moderation Disabled",
-            KICKED: "KICKED",
-            UNSUPPORTED: "Moderation Unsupported",
-            WAITING_FOR_SUBMISSIONS: "Waiting for submissions"
+            DISABLED: "Модерация отключена",
+            KICKED: "ВЫГНАН(А)",
+            UNSUPPORTED: "Модерация не поддерживается",
+            WAITING_FOR_SUBMISSIONS: "Ожидаем предложения..."
         },
         Dte = {
-            DISABLED: "The moderation setting for this game is turned off. Turn it on and restart the game to moderate content.",
-            UNSUPPORTED: "{gameName} doesn't have anything to moderate, but thanks for wanting to help out!"
+            DISABLED: "В этой игре функция модерирования отключена. Включите её и перезапустите игру, чтобы функция сработала.",
+            UNSUPPORTED: "В {gameName} нечего модерировать, но всё равно спасибо за оказание помощи!"
         },
-        kte = "Submitted by:",
+        kte = "Автор:",
         Mte = {
             FORM: Nte,
             ACTION: $te,
